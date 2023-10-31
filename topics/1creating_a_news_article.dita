@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Creating a News Article</title>
+    <shortdesc>How to create a news article</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-08-25"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sign in to the <xref href="https://it.umn.edu/saml_login" format="html" scope="external">Drupal website</xref></cmd>
+            </step>
+            <step>
+                <cmd>In the top menu, hover over <b>Content</b> then <b>Add content</b> then
+                        <b>News</b></cmd>
+            </step>
+            <step>
+                <cmd>Confirm that in the <b>Site Section</b> drop-down menu, <b>News</b> is
+                    selected</cmd>
+            </step>
+            <step>
+                <cmd>Confirm <b>Published Date</b> is correct</cmd>
+                <info>If you are updating an article, use the <b>Updated Date</b> field</info>
+            </step>
+            <step>
+                <cmd>Fill in the content specified below in the <xref href="https://it.umn.edu/services-technologies/how-tos/technology-help-website-create-news#template" format="html" scope="external">News article template (on this
+                    page)</xref></cmd>
+            </step>
+            <step>
+                <cmd>Add a note to the <b>Revision log</b> message on the right side of the
+                    page</cmd>
+                <info>Briefly describe what you did to the page</info>
+            </step>
+            <step>
+                <cmd>Select <b>Promotion Options</b> on the right side of the page</cmd>
+            </step>
+            <step>
+                <cmd>Check the box next to <b>Promoted to front page</b> to ensure the article
+                    appears on the home page of the Tech Help website</cmd>
+            </step>
+            <step>
+                <cmd>To publish the article, check the box next to <b>Published</b> and
+                    <b>Save</b></cmd>
+                <info>To save the article as a draft to publish later, leave the box unchecked and
+                        <b>Save</b></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

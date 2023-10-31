@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"Untitled-d181e11":{"topics":[{"title":"Creating a Service Page","shortdesc":"<p class=\"shortdesc\">Create and publish a service page. <\/p>","href":"topics\/1creating_a_service_page.html","attributes":{"data-id":"creating_a_service_page"},"menu":{"hasChildren":false},"tocID":"creating_a_service_page-d181e22","topics":[]}]}};

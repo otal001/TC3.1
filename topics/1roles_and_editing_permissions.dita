@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="roles_and_editing_permissions">
+    <title>Roles and Editing Permissions</title>
+    <shortdesc>Lists of editing permissions by different role types.</shortdesc>
+    <refbody>
+        <section id="section_w1d_db1_hzb">
+            <title>Content Editor</title>
+        </section>
+        <properties frame="all" id="properties_v3s_qb1_hzb">
+            <prophead>
+                <proptypehd>Editing permissions</proptypehd>
+                <propvaluehd>Additional notes</propvaluehd>
+            </prophead>
+            <property>
+                <proptype>Create and edit media</proptype>
+                <propvalue>TechHelp contributors will only have access to the TechHelp content
+                    types</propvalue>
+            </property>
+            <property>
+                <proptype>Create and edit any pages you have access to</proptype>
+                <propvalue/>
+            </property>
+            <property>
+                <proptype>Add a revision log entry</proptype>
+                <propvalue/>
+            </property>
+            <property>
+                <proptype>View revisions</proptype>
+                <propvalue/>
+            </property>
+            <property>
+                <proptype>Revert to a previous revision</proptype>
+                <propvalue/>
+            </property>
+        </properties>
+        <section id="section_m3s_qb1_hzb">
+            <p>
+                <note id="note_hdw_zc1_hzb">This role will not be able to publish new pages. They
+                    can only save them as drafts. They will need to have someone with the Page
+                    Publisher role review and publish their pages.</note>
+            </p>
+        </section>
+        <section id="section_nsq_dd1_hzb">
+            <title>Page Publisher</title>
+        </section>
+        <properties frame="all" id="properties_e43_fd1_hzb">
+            <prophead>
+                <proptypehd>Editing permissions</proptypehd>
+            </prophead>
+            <property>
+                <proptype>Publish and unpublish any pages you have access to</proptype>
+            </property>
+            <property>
+                <proptype>Create URL redirects and aliases</proptype>
+            </property>
+        </properties>
+        <section id="section_h42_3d1_hzb">
+            <title>Advanced Editor</title>
+        </section>
+        <properties frame="all" id="properties_ysj_jd1_hzb">
+            <prophead>
+                <proptypehd>Editing permissions</proptypehd>
+                <propvaluehd>Additional notes</propvaluehd>
+            </prophead>
+            <property>
+                <proptype>Create, edit and publish pages using the specialized content types (except
+                    Knowledge Base Article)</proptype>
+                <propvalue>TechHelp contributors with the Advanced Editor role will have access to
+                    TechHelp Specialized content types and will be able to edit and unpublish
+                    Knowledge Base Articles</propvalue>
+            </property>
+            <property>
+                <proptype>Configure layout overrides</proptype>
+                <propvalue/>
+            </property>
+            <property>
+                <proptype>Create and edit single-use custom blocks</proptype>
+                <propvalue/>
+            </property>
+            <property>
+                <proptype>Create and edit taxonomy terms</proptype>
+                <propvalue/>
+            </property>
+        </properties>
+        <section id="section_qsj_jd1_hzb">
+            <title>Platform Configuration and Coding Permissions</title>
+        </section>
+        <properties frame="all" id="properties_t5d_rd1_hzb">
+            <prophead>
+                <proptypehd>Editing permissions</proptypehd>
+            </prophead>
+            <property>
+                <proptype>Administer content types</proptype>
+            </property>
+            <property>
+                <proptype>Configure any layout</proptype>
+            </property>
+            <property>
+                <proptype>Configure all layout overrides</proptype>
+            </property>
+            <property>
+                <proptype>Administer views</proptype>
+            </property>
+            <property>
+                <proptype>Administer blocks</proptype>
+            </property>
+            <property>
+                <proptype>Administer Bulk Update Fields</proptype>
+            </property>
+            <property>
+                <proptype>Administer URL aliases</proptype>
+            </property>
+            <property>
+                <proptype>Administer vocabularies and terms</proptype>
+            </property>
+            <property>
+                <proptype>Administer menus and menu items</proptype>
+            </property>
+            <property>
+                <proptype>Define the existing Paragraph types and their fields and
+                    behaviors</proptype>
+            </property>
+            <property>
+                <proptype>Administer media &amp; media types</proptype>
+            </property>
+            <property>
+                <proptype>Administer meta tags</proptype>
+            </property>
+            <property>
+                <proptype>Administer Easy Breadcrumb settings</proptype>
+            </property>
+            <property>
+                <proptype>Administer Google Analytics and Google Tag Manager</proptype>
+            </property>
+            <property>
+                <proptype>Administer Honeypot</proptype>
+            </property>
+            <property>
+                <proptype>Administer Rabbit Hole settings for Content &amp; Taxonomy
+                    terms</proptype>
+            </property>
+            <property>
+                <proptype>Administer robots.txt</proptype>
+            </property>
+            <property>
+                <proptype>Administer facets for search pages</proptype>
+            </property>
+        </properties>
+        <section id="section_v1f_df1_hzb">
+            <title>Platform Provisioning Permissions</title>
+        </section>
+        <properties frame="all" id="properties_fmc_ff1_hzb">
+            <prophead>
+                <proptypehd>Editing permissions</proptypehd>
+            </prophead>
+            <property>
+                <proptype>Add and remove access to platforms</proptype>
+            </property>
+            <property>
+                <proptype>Assign roles</proptype>
+            </property>
+        </properties>
+        <section id="section_nbm_gf1_hzb">
+            <title>Platform Administrator Permissions</title>
+        </section>
+        <properties frame="all" id="properties_zdb_hf1_hzb">
+            <prophead>
+                <proptypehd>Editing permissions</proptypehd>
+            </prophead>
+            <property>
+                <proptype>Full access to everything</proptype>
+            </property>
+        </properties>
+    </refbody>
+</reference>

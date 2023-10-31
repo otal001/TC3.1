@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="how_tdx_knowledge_base_articles_are_displayed">
+    <title>TDX knowledge base display</title>
+    <shortdesc>Understand how TDX knowledge base articles are displayed on the Technology Help (IT)
+        website. </shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <ul id="ul_srw_zd1_gzb">
+            <li>Internal articles can only be viewed in TDX.<ul id="ul_dkk_121_gzb">
+                    <li>Exception: If an article is marked <b>Public</b> (which no article should
+                        be), anyone with the link can view it in TDX. </li>
+                </ul></li>
+            <li>Published articles can be viewed in TDX or on the Technology Help (IT) website. </li>
+            <li>Published articles are pulled into Drupal nightly:<ul id="ul_ekk_121_gzb">
+                    <li>Central Standard Time (CST): 5:00 PM<ul id="ul_fkk_121_gzb">
+                            <li>Fall/Winter is January-March and November-December</li>
+                        </ul></li>
+                    <li>Central Daylight Time (CDT): 6:00 PM<ul id="ul_gkk_121_gzb">
+                            <li>Spring/Summer is March-November</li>
+                        </ul></li>
+                </ul></li>
+            <li>Once a new public article has been pulled into Drupal, it will have a
+                Drupal-generated URL based on the article's title. <ul id="ul_hkk_121_gzb">
+                    <li>Once pulled, you can find it using the <b>Self Help Search</b> for on the
+                        Technology Help website, it.umn.edu.<ul id="ul_ikk_121_gzb">
+                            <li>In general, new knowledge will be available no later than 6:00 AM
+                                the next morning.</li>
+                            <li>If there is an emergency need for information to be available
+                                sooner, fill out a Service Lifecycle Support equest via <xref
+                                    href="http://z.umn.edu/makeituserfriendly" format="html"
+                                    scope="external">z.umn.edu/makeituserfriendly</xref> form.</li>
+                        </ul></li>
+                </ul></li>
+        </ul>
+    </conbody>
+</concept>

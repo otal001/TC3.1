@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="Untitled" path="topics/1creating_a_news_article.html"/>
+   <appContext helpID="creating_a_service_page"
+               path="topics/1creating_a_service_page.html"/>
+   <appContext helpID="how_linking_works_between_tdx_and_drupal"
+               path="topics/1how_linking_works_between_tdx_and_drupal.html"/>
+   <appContext helpID="how_tdx_knowledge_base_articles_are_displayed"
+               path="topics/1how_tdx_knowledge_base_articles_are_displayed.html"/>
+   <appContext helpID="roles_and_editing_permissions"
+               path="topics/1roles_and_editing_permissions.html"/>
+</map>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="how_linking_works_between_tdx_and_drupal">
+    <title>How Linking Works Between TDX and Drupal </title>
+    <shortdesc>Understand how TDX knowledge base articles are linked on the Technology Help (IT)
+        website. </shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <ul id="ul_rbt_33x_2zb">
+            <li>Links from one article to another must use the TDX link whether an article is for
+                internal use or is public-facing (Published). </li>
+            <li>
+                <p>If a published article contains a link to another published article, Drupal will
+                    automatically substitute the TDX article link with the Drupal-generated URL.</p>
+            </li>
+            <li>
+                <p>When an article title changes, Drupal updates the Drupal-generated URL. </p>
+            </li>
+            <li>
+                <p>All changes to articles must be made in TDX.</p>
+                <ul id="ul_b15_l3x_2zb">
+                    <li>
+                        <p>Most knowledge editors cannot edit KB articles directly on the Drupal
+                            website. </p>
+                    </li>
+                    <li>
+                        <p>If there is an urgent need to have an article updated, fill out a request
+                            via <xref href="http://z.umn.edu/makeituserfriendly" format="html"
+                                scope="external">z.umn.edu/makeituserfriendly</xref> form. </p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>Links from an IT web page to a public article must use the article's
+                    Drupal-generated URL, not its TDX link. </p>
+            </li>
+            <li><p>There is a pull limit of 50 public-facing articles per day into Drupal. </p><ul
+                    id="ul_bbm_q3x_2zb">
+                    <li>
+                        <p>The limit is for any articles that had changes made (including both newly
+                            Published articles and articles with any updates or changes). </p>
+                    </li>
+                    <li>
+                        <p>The limit is in the pull from the headless Drupal site to the production
+                            Drupal site. There is no limit in the pull from TDX to the headless
+                            Drupal site. </p>
+                    </li>
+                    <li>
+                        <p>The limit is 50 per day and does not roll over to the next day. </p>
+                        <ul id="ul_dcs_r3x_2zb">
+                            <li>
+                                <p>Example: If you publish/update 60 Published articles in one day,
+                                    then 50 articles will update in Drupal that night and the extra
+                                    10 articles will not update in Drupal. To get those extra
+                                    articles to pull into Drupal, go into TDX the next day and
+                                    either un-Publish/re-Publish them or make an edit so they can be
+                                    part of the 50 for the new day. </p>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>If you are working on a large Knowledge maintenance project and are
+                            updating/publishing 50+ public-facing KB articles in one day, it is
+                            recommended to limit those updates to 40 public-facing articles per day.
+                            This leaves 10 extra slots in the knowledge pull for any general
+                            operational KB article updates. </p>
+                    </li>
+                </ul><b>Note</b>: If you don't see a TDX ID number at the bottom of an Technology
+                Help web page, the page was created in Drupal, not TDX. <p>All KB articles are
+                        <b>How-To</b> articles on the Technology Help website (<xref
+                        href="http://it.umn.edu" format="html" scope="external">it.umn.edu</xref>).
+                </p></li>
+        </ul>
+    </conbody>
+</concept>

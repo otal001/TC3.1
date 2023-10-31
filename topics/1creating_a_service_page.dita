@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_service_page">
+    <title>Creating a Service Page</title>
+    <shortdesc>Create and publish a service page. </shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-08-25"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <steps id="steps_pbb_fj2_fzb">
+            <step>
+                <cmd>Sign in to the <xref href="https://it.umn.edu/saml_login" format="html"
+                        scope="external">Drupal website</xref></cmd>
+            </step>
+            <step>
+                <cmd>In the top menu, hover over <b>Content</b> then <b>Add content </b>then
+                        <b>Service</b></cmd>
+            </step>
+            <step>
+                <cmd>Fill in the content specified below <i>(Service page template)</i></cmd>
+            </step>
+            <step>
+                <cmd>Add a note to the <b>Revision log</b> message on the right side of the page </cmd>
+                <info>
+                    <ul id="ul_srt_ll2_fzb">
+                        <li>Briefly describe what you did to the page </li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>To publish the page, check the box next to <b>Published</b> and <b>Save</b>
+                </cmd>
+                <info>
+                    <ul id="ul_z4x_ml2_fzb">
+                        <li>To save the page as a draft to publish later, leave the box unchecked
+                            and <b>Save</b>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

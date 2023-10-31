@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>3.1 map</title>
+    <topicref href="topics/1creating_a_news_article.dita">
+        <topicref href="topics/1creating_a_service_page.dita"/>
+    </topicref>
+    <topicref href="topics/1how_linking_works_between_tdx_and_drupal.dita">
+        <topicref href="topics/1how_tdx_knowledge_base_articles_are_displayed.dita"/>
+    </topicref>
+    <topicref href="topics/1roles_and_editing_permissions.dita"/>
+</map>
