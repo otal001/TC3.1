@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>3.1 map</title>
+    <title>Technology Help (TC3.1)</title>
     <topicref href="topics/open_and_search_the_knowledge_base.dita">
         <topicref href="topics/Search_the_Knowledge_Base.dita"/>
         <topicref href="topics/Navigate_to_knowledge_base.dita"/>

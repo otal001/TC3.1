@@ -10,9 +10,9 @@
         </critdates>
     </prolog>
     <conbody>
-        <fig><title>The search options screen</title>
-        <image href="../images/search%20start.png" id="image_whr_qvk_hzb"/>    
-        </fig>
+        <image href="../images/search%20start.png" id="image_whr_qvk_hzb">
+            <alt>The search options screen.</alt>
+        </image>    
         <p><b>Search: </b>Enter search terms here.<ul id="ul_w1t_ytk_hzb">
                 <li>
                     <p><b>Status: </b>Use the dropdown menu to search by status.<ul
@@ -20,11 +20,11 @@
                             <li>
                                 <p>Default is set to <b>Approved</b></p>
                             </li>
-                            <li><p>You can use the checkboxes to search by one or more statuses.</p><fig>
-                                    <title>View of the status checkboxes</title>
-                                </fig>
+                            <li><p>You can use the checkboxes to search by one or more statuses.</p>
                                 <image href="../images/search%20by%20status.png"
-                                    id="image_rvc_d5k_hzb"/>
+                                    id="image_rvc_d5k_hzb">
+                                    <alt>A view of the status checkbox dropdown</alt>                                    
+                                </image>
                             </li>
                         </ul></p>
                 </li>
@@ -89,11 +89,11 @@
                             </li>
                         </ul></p>
                 </li>
-                <li><b>Created Date: </b>Enter <b>From, To,</b>or both dates.<fig>
-                        <title>A sample of filled out search options</title>
-                    </fig>
-                    <image href="../images/sample%20search%20complete.png" id="image_jcb_vvk_hzb"
-                    /></li>
+                <li><b>Created Date: </b>Enter <b>From, To,</b>or both dates.
+                    <image href="../images/sample%20search%20complete.png" id="image_jcb_vvk_hzb">
+                        <alt>A sample of filled out search options.</alt>
+                    </image>
+                    </li>
             </ul></p>
     </conbody>
 </concept>
