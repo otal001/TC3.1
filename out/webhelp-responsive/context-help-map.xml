@@ -25,8 +25,8 @@
                path="topics/How_linking_works_between_tdx_and_drupal.html"/>
    <appContext helpID="creeate_and_edit_content"
                path="topics/Create_and_edit_content.html"/>
-   <appContext helpID="roles_and_editing_permissions"
-               path="topics/Roles_and_editing_permissions.html"/>
    <appContext helpID="creating_a_service_page" path="topics/Create_service_page.html"/>
    <appContext helpID="Untitled" path="topics/Create_news_article.html"/>
+   <appContext helpID="roles_and_editing_permissions"
+               path="topics/Roles_and_editing_permissions.html"/>
 </map>
