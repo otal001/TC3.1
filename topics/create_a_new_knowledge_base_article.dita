@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_a_new_knowledge_base_article_task">
+    <title>Create a New Knowledge Base Article</title>
+    <shortdesc>Follow these steps to create a new Knowledge Base article and change the ownership to
+        the appropriate Group. </shortdesc>
+    <prolog>
+        <critdates>
+            <created date="11/2/2023"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Navigate to the <b>Knowledge Base</b>.</cmd>
+                <info>For guidance, visit <xref href="Navigate_to_knowledge_base.dita">Navigate to
+                        the Knowledge Base</xref>. </info>
+            </step>
+            <step>
+                <cmd>Verify your intended new article is not already covered in the Knowledge
+                    Base.</cmd>
+                <info>For guidance, visit <xref href="Search_for_duplicate_articles.dita">Search for
+                        Duplicate Articles </xref>for guidance. </info>
+            </step>
+            <step>
+                <cmd>If there is no duplicate article, click <b>+New Article</b>. </cmd>
+                <info><i>The New Article form will appear.</i></info>
+            </step>
+            <step>
+                <cmd>Enter the article <b>Category.</b>
+                </cmd>
+                <info>See TDX Knowledge: Assign a Category/Subcategory to the Knowledge
+                    Article.</info>
+                <info><image href="../images/knowledge%20base%20lookup%20category.png" scale="50"
+                        id="image_tz1_r1z_hzb">
+                        <alt>A screenshot of the Knowledge Base Category Lookup.</alt>
+                    </image></info>
+                <info>Click the <b>Lookup Category </b>icon to do a search of categories.</info>
+                <info>DO NOT change the <b>Order </b>field.</info>
+                <info>DO NOT click the <b>Pin Article </b>checkbox.</info>
+            </step>
+            <step>
+                <cmd>Enter the <b>Subject </b>(article title).</cmd>
+            </step>
+            <step>
+                <cmd>Enter article content in the <b>Body </b>field.</cmd>
+                <info>Visit <xref href="body_field_article_content.dita">Enter Body Field Article
+                        Content </xref>for guidance</info>
+                <info>DO NOT include the title for the article in the Body field. </info>
+                <info>Do include a summary to provide context for what follows. This can be a single
+                    sentence.</info>
+                <info>Format the article as needed following our standards. Visit <xref
+                        href="Format_internal_public_article.dita">Format for Internal and
+                        Public-Facing Articles</xref> for guidance.</info>
+            </step>
+            <step>
+                <cmd>Enter an <b>Article Summary.</b></cmd>
+                <info>Use under 100 characters if possible</info>
+                <info>Visit <xref href="List_of_article_types.dita">List of Article Types</xref> for
+                    reference.</info>
+            </step>
+            <step>
+                <cmd>Enter any <b>Tags.</b></cmd>
+                <info><b>Tags</b> allow users to search for the aritcle by keywords. </info>
+                <info>Enter a tag for the technology referred to in the article. For example,
+                    "Canvas", "Salesforce".</info>
+                <info>New tag names may only contain alpha-numeric characters or hyphens with no
+                    spaces.</info>
+                <info>You can enter any number of tags.</info>
+            </step>
+            <step>
+                <cmd><i>If you are a Group Editor, follow these instructions:</i></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Set <b>Status</b> to <b>Not Submitted.</b></cmd>
+                    </substep>
+                    <substep>
+                        <cmd><i>(optional) Set the <b>Next Review Date.</b></i></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><i>If you are a Global Editor, follow these instructions:</i></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Set <b>Status </b>to <b>Not Submitted.</b></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Change <b>Owner</b> to the appropriate <b>Group</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Check <b>Notify Owner on Feedback.</b></cmd>
+            </step>
+            <step>
+                <cmd>(optional) Enter <b>Knowledge Internal Notes. </b></cmd>
+                <info>Use this field to enter any information a technician might need to support a
+                    customer when the article is published to it.umn.edu.</info>
+            </step>
+            <step>
+                <cmd>Select the appropriate response to the prompt "Should the viewing of this
+                    content be limited to the University community?"</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Save.</b></cmd>
+                <info><image
+                        href="../images/Click%20Save.%20The%20Edit%20Form%20screen%20closes%20and%20the%20article%20presents%20in%20View%20Mode..png"
+                        scale="50" id="image_p4w_n5y_hzb"/><image>
+                        <alt>A screenshot of the View Mode.</alt>
+                    </image></info>
+            </step>
+            <step>
+                <cmd><i>If you are a </i><i>Global Editors, change the <b>Owner </b>from yourself to
+                        the appropriate <b>Group.</b></i></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Edit Article.</b></cmd>
+            </step>
+            <step>
+                <cmd>Change the <b>Owner</b> to the appropriate <b>Group</b> if needed.</cmd>
+                <info>If you are a Group Knowledge Editor or a technician, and you change an article
+                    to a group you are not a member of, you will no longer be able to edit the
+                    article after changing the Owner.</info>
+                <info>Everyone in the Group will be able to edit Not Submitted articles owned by the
+                    Group. </info>
+                <info>Group Editors will be able to edit, approve or reject, and archive all
+                    articles owned by the Group.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

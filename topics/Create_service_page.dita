@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="creating_a_service_page">
-    <title>Creating a Service Page</title>
+    <title>Create a Service Page</title>
     <shortdesc>Create and publish a service page. </shortdesc>
     <prolog>
         <critdates>
@@ -19,7 +19,7 @@
                         <b>Service</b></cmd>
             </step>
             <step>
-                <cmd>Fill in the content specified below <i>(Service page template)</i></cmd>
+                <cmd>Fill in the content</cmd>
             </step>
             <step>
                 <cmd>Add a note to the <b>Revision log</b> message on the right side of the page </cmd>

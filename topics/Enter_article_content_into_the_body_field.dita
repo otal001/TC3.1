@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter_article_content_into_the_body_field">
+    <title>Enter article content into the Body field</title>
+    <shortdesc>Follow this guide to summarize the article.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Write a summary of the content.</cmd>
+                <info>This can be a single sentence.</info>
+                <info>DO NOT included the article title in the <b>Body </b>field. This will cause
+                    the title to appear twice.</info>
+            </step>
+            <step>
+                <cmd>Use headings for proper article structure.</cmd>
+            </step>
+            <step>
+                <cmd>Follow our article formatting standards.</cmd>
+                <info>Visit <xref href="Format_internal_public_article.dita">Format Internal and
+                        Public-Facing Articles</xref> for guidance.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

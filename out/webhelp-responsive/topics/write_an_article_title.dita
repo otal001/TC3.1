@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="write_an_article_title">
+    <title>Write an article title</title>
+    <shortdesc>Follow these guidelines to better help users find your article.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="11/2/2023"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Use this framework for the title: "[software] [version(s) if applicable]:
+                    [verb]"</cmd>
+            </step>
+            <step>
+                <cmd>Use the active voice for the verb.</cmd>
+                <info>DO NOT use the 'ing' form of the verb.</info>
+                <info><b>Example 1: </b>Canvas: Publish a Course</info>
+                <info><b>Example 2: </b>Drupal Enterprise: Enable Folwell Theme</info>
+            </step>
+            <step>
+                <cmd>Write a concise sentence summarizing the content</cmd>
+                <info>The summarizing sentence should ideally be less than 10 wordsUse title
+                    case.</info>
+            </step>
+            <step>
+                <cmd>Use title case</cmd>
+            </step>
+            <step>
+                <cmd>Use primary keywords related to the content in the first several words.</cmd>
+            </step>
+            <step>
+                <cmd>Delete "the," "and," or "is," if possible.</cmd>
+                <info>These words are generic and take up space when at the beginning of a
+                    title.</info>
+            </step>
+            <step>
+                <cmd>DO NOT lead with commonly used words such as "How to."</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
