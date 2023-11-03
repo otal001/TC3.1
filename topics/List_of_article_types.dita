@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="list_of_article_types_ref">
+    <title>List of article types</title>
+    <shortdesc>Follow this reference to determine what to write in the article summary based on its
+        article type. </shortdesc>
+    <prolog>
+        <critdates>
+            <created date="11/2/2023"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_u4m_gzr_hzb">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Article type</entry>
+                        <entry>What to include in the Article Summary</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Incident Models</entry>
+                        <entry>List the application technologies.</entry>
+                    </row>
+                    <row>
+                        <entry>Unit Overviews</entry>
+                        <entry>List the group(s) which support the department.</entry>
+                    </row>
+                    <row>
+                        <entry>Published Articles (articles that will be public-facing)</entry>
+                        <entry>Copy the first sentence of the article. </entry>
+                    </row>
+                    <row>
+                        <entry>Other article types</entry>
+                        <entry>Include a short statement that clarifies the title, if
+                            necessary.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

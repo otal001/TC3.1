@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="roles_and_editing_permissions">
-    <title>Roles and Editing Permissions</title>
+    <title>Roles and editing permissions</title>
     <shortdesc>Lists of editing permissions by different role types.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="11/2/2023"/>
+        </critdates>
+    </prolog>
     <refbody>
         <section id="section_w1d_db1_hzb">
             <title>Content Editor</title>

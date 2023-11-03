@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="checklist_for_internal_and_public_facing_knowledge_concept">
+    <title>Format Internal and Public-Facing Articles</title>
+    <shortdesc>This checklist is for Knowledge Editors to use when formatting an internal or public
+        article following our standards.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="11/2/2023"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <section id="section_ej4_xxr_hzb">
+            <title>Internal standards</title>
+            <ul id="ul_ur1_yxr_hzb">
+                <li>
+                    <p>Format topic and subtopic titles as headings.</p>
+                </li>
+                <li>
+                    <p>Use numbers for steps.</p>
+                </li>
+                <li>
+                    <p>Use bullets for lists.</p>
+                </li>
+                <li>
+                    <p>Reference application interface terms just as they appear in the
+                        interface.</p>
+                </li>
+                <li>
+                    <p>Bold application interface terms.</p>
+                </li>
+                <li>
+                    <p>Give tables a header row.</p>
+                </li>
+                <li>Use clean HTML.</li>
+            </ul>
+        </section>
+        <section id="section_qb1_dyr_hzb">
+            <title>Additional public standards</title>
+            <p>Order content well. </p>
+            <ul id="ul_lf5_dyr_hzb">
+                <li>
+                    <p>Give topics and subtopics a logical sequence.</p>
+                </li>
+                <li>
+                    <p>Format topic and subtopic titles as not-bold headings.</p>
+                </li>
+                <li>
+                    <p>Use "ing" verbs when describing a process within the article content.</p>
+                </li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

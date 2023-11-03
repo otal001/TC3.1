@@ -2,11 +2,24 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>3.1 map</title>
-    <topicref href="topics/1creating_a_news_article.dita">
-        <topicref href="topics/1creating_a_service_page.dita"/>
+    <topicref href="topics/open_and_search_the_knowledge_base.dita">
+        <topicref href="topics/Search_the_Knowledge_Base.dita"/>
+        <topicref href="topics/Navigate_to_knowledge_base.dita"/>
     </topicref>
-    <topicref href="topics/1how_linking_works_between_tdx_and_drupal.dita">
-        <topicref href="topics/1how_tdx_knowledge_base_articles_are_displayed.dita"/>
+    <topicref href="topics/create_a_new_knowledge_base_article.dita">
+        <topicref href="topics/Search_for_duplicate_articles.dita"/>
+        <topicref href="topics/Enter_article_content_into_the_body_field.dita"/>
+        <topicref href="topics/Format_internal_public_article.dita"/>
+        <topicref href="topics/List_of_article_types.dita"/>
+        <topicref href="topics/body_field_article_content.dita"/>
     </topicref>
-    <topicref href="topics/1roles_and_editing_permissions.dita"/>
+    <topicref href="topics/TDX_knowledge_and_drupal_content_availability_and_linking.dita">
+        <topicref href="topics/How_tdx_knowledge_base_articles_are_displayed.dita"/>
+        <topicref href="topics/How_linking_works_between_tdx_and_drupal.dita"/>
+    </topicref>
+    <topicref href="topics/Create_and_edit_content.dita">
+        <topicref href="topics/Create_service_page.dita"/>
+        <topicref href="topics/Create_news_article.dita"/>
+        <topicref href="topics/Roles_and_editing_permissions.dita"/>
+    </topicref>
 </map>

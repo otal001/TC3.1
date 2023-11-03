@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="body_field_article_content">
+    <title>Enter Body Field Article Content</title>
+    <shortdesc>Follow this guidance when entering article content in the Body field.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="11/3/2023"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>
+            <ul id="ul_zdt_1wr_hzb">
+                <li>
+                    <p>DO NOT include the title for the article in the <b>Body</b> field. This will
+                        cause the title to appear twice.</p>
+                </li>
+                <li>DO include a brief summary to provide context for what follows. This can be a
+                    single sentence.</li>
+                <li>
+                    <p>Use headings for proper article structure.</p>
+                </li>
+                <li>
+                    <p>If your article was drafted in Google Docs, remove the extra HTML formatting
+                        before pasting in your content.</p>
+                </li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

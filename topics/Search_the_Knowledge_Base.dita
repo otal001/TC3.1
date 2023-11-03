@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="search_options">
+    <title>Search the Knowledge Base</title>
+    <shortdesc>There are multiple search options to narrow searches in the Knowledge
+        Base.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="10/31/2023"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <fig><title>The search options screen</title>
+        <image href="../images/search%20start.png" id="image_whr_qvk_hzb"/>    
+        </fig>
+        <p><b>Search: </b>Enter search terms here.<ul id="ul_w1t_ytk_hzb">
+                <li>
+                    <p><b>Status: </b>Use the dropdown menu to search by status.<ul
+                            id="ul_nrd_b5k_hzb">
+                            <li>
+                                <p>Default is set to <b>Approved</b></p>
+                            </li>
+                            <li><p>You can use the checkboxes to search by one or more statuses.</p><fig>
+                                    <title>View of the status checkboxes</title>
+                                </fig>
+                                <image href="../images/search%20by%20status.png"
+                                    id="image_rvc_d5k_hzb"/>
+                            </li>
+                        </ul></p>
+                </li>
+                <li>
+                    <p><b>Category: </b>Start typing or use the <b>Lookup Category </b>option<ul
+                            id="ul_u4h_f5k_hzb">
+                            <li>
+                                <p>Always <b>Search </b>by <b>Both. </b></p>
+                            </li>
+                            <li>
+                                <p>Public does not mean published to the IT website
+                                    (it.umn.edu).</p>
+                            </li>
+                            <li>
+                                <p>Include the <b>Include Subcategories</b>checkbox if you want to
+                                    include articles intended for a specific audience in your search
+                                    results. </p>
+                            </li>
+                        </ul></p>
+                </li>
+                <li>
+                    <p>
+                        <b>Owner: </b>Start typing a person's name or a Group name.<ul
+                            id="ul_d3b_n5k_hzb">
+                            <li>
+                                <p>You can also use the <b>Lookup Owner </b>option if needed.</p>
+                            </li>
+                            <li>
+                                <p><i>The Assignment Lookup window will open with options for
+                                        filtering.</i></p>
+                            </li>
+                            <li>
+                                <p>You can leave all the filter options as is to search for
+                                    Groups.</p>
+                            </li>
+                        </ul></p>
+                </li>
+                <li>
+                    <p><b>Review Date: </b>Enter <b>From </b>, <b>To</b>, or both dates.</p>
+                </li>
+                <li>
+                    <p><b>Published, Unpublished, </b>or<b> Both:</b>Choose from the radio button
+                            options<ul id="ul_zlm_v5k_hzb">
+                            <li>
+                                <p>Default is <b>Both.</b></p>
+                            </li>
+                            <li>
+                                <p>Select <b>Published</b> to limit your search to articles
+                                    published to the IT website (it.umn.edu).</p>
+                            </li>
+                        </ul></p>
+                </li>
+                <li>
+                    <p><b>Public, Not Public, </b>or <b>Both</b>: Choose from the radio button
+                            options.<ul id="ul_jd3_1vk_hzb">
+                            <li>
+                                <p>Leave this options as the default <b>Both.</b></p>
+                            </li>
+                            <li>
+                                <p>Public articles are viewable in the Client Portal with no login.
+                                    None of our articles should be marked Public.</p>
+                            </li>
+                        </ul></p>
+                </li>
+                <li><b>Created Date: </b>Enter <b>From, To,</b>or both dates.<fig>
+                        <title>A sample of filled out search options</title>
+                    </fig>
+                    <image href="../images/sample%20search%20complete.png" id="image_jcb_vvk_hzb"
+                    /></li>
+            </ul></p>
+    </conbody>
+</concept>

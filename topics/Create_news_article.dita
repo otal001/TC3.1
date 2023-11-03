@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="Untitled">
-    <title>Creating a News Article</title>
+    <title>Create a News Article</title>
     <shortdesc>How to create a news article</shortdesc>
     <prolog>
         <critdates>
@@ -26,8 +26,7 @@
                 <info>If you are updating an article, use the <b>Updated Date</b> field</info>
             </step>
             <step>
-                <cmd>Fill in the content specified below in the <xref href="https://it.umn.edu/services-technologies/how-tos/technology-help-website-create-news#template" format="html" scope="external">News article template (on this
-                    page)</xref></cmd>
+                <cmd>Fill in the content below</cmd>
             </step>
             <step>
                 <cmd>Add a note to the <b>Revision log</b> message on the right side of the

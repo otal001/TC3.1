@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="search_for_duplicate_knowledge_base_articles">
+    <title>Search for duplicate articles</title>
+    <shortdesc>Before creating a new Knowledge Base article, you need to verify the article is not
+        already covered in the Knowledge Base.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="10/31/2023"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Sign in to TDX and select <b>Client Portal.</b></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>If you are already signed into TDX, click the <b>Applications
+                            menu</b>and select <b>Client Portal.</b></cmd>
+                        <info><i>A new window (tab) will open.</i></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click <b>Knowledge Base </b>in the menu bar.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Search </b>in the menu bar.</cmd>
+                <info><i>The Search page will appear with multiple search options. </i></info>
+                <info>By default, the Status filter is set to Approved.</info>
+            </step>
+            <step>
+                <cmd>Choose your search option(s).</cmd>
+                <info>Visit Knowledge Base search options reference file for more.</info>
+            </step>
+            <step>
+                <cmd>Click <b>Search.</b></cmd>
+                <info><i>A list of articles that meet your search criteria will appear below the
+                        Search options.</i></info>
+                <info>Search results are limited to 300.</info>
+            </step>
+            <step>
+                <cmd>Click the link to any article that could cover what your new article would
+                    cover</cmd>
+            </step>
+            <step>
+                <cmd>Review the article to verify it does not cover what your new article would
+                    cover. </cmd>
+            </step>
+            <step>
+                <cmd>Repeat the search as necessary to ensure your new article is not already
+                    covered in the Knowledge Base.</cmd>
+                <info>You may need to try several searches with different keywords and search
+                    options.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
