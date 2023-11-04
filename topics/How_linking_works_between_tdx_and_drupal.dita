@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="how_linking_works_between_tdx_and_drupal">
     <title>How Linking Works Between TDX and Drupal </title>
-    <shortdesc>Understand how TDX knowledge base articles are linked on the Technology Help (IT)
-        website. </shortdesc>
+    <shortdesc>Understand how knowledge base article linking works and th recommended limits to
+        updates.</shortdesc>
     <prolog>
         <critdates>
             <created date="2023-06-09"/>
@@ -64,14 +64,14 @@
                     </li>
                     <li>
                         <p>If you are working on a large Knowledge maintenance project and are
-                            updating/publishing 50+ public-facing KB articles in one day, it is
-                            recommended to limit those updates to 40 public-facing articles per day.
-                            This leaves 10 extra slots in the knowledge pull for any general
-                            operational KB article updates. </p>
+                            updating/publishing 50+ public-facing Knowledge Base articles in one
+                            day, it is recommended to limit those updates to 40 public-facing
+                            articles per day. This leaves 10 extra slots in the knowledge pull for
+                            any general operational KB article updates. </p>
                     </li>
                 </ul><b>Note</b>: If you don't see a TDX ID number at the bottom of an Technology
-                Help web page, the page was created in Drupal, not TDX. <p>All KB articles are
-                        <b>How-To</b> articles on the Technology Help website (<xref
+                Help web page, the page was created in Drupal, not TDX. <p>All Knowledge Base
+                    articles are <b>How-To</b> articles on the Technology Help website (<xref
                         href="http://it.umn.edu" format="html" scope="external">it.umn.edu</xref>).
                 </p></li>
         </ul>

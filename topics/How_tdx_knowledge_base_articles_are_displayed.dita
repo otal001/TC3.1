@@ -2,8 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="how_tdx_knowledge_base_articles_are_displayed">
     <title>TDX knowledge base display</title>
-    <shortdesc>Understand how TDX knowledge base articles are displayed on the Technology Help (IT)
-        website. </shortdesc>
+    <shortdesc>Knowledge base articles can be published into TDX or Drupal. </shortdesc>
     <prolog>
         <critdates>
             <created date="2023-06-09"/>
