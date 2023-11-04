@@ -89,8 +89,9 @@
                             </li>
                         </ul></p>
                 </li>
-                <li><b>Created Date: </b>Enter <b>From, To,</b>or both dates.
-                    <image href="../images/sample%20search%20complete.png" id="image_jcb_vvk_hzb">
+                <li><b>Created Date: </b>Enter <b>From, To,</b>or both dates. <image
+                        href="../images/sample%20search%20complete.png" id="image_jcb_vvk_hzb"
+                        placement="break">
                         <alt>A sample of filled out search options.</alt>
                     </image>
                 </li>
