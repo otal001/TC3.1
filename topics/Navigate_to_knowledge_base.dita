@@ -11,10 +11,10 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click the <b>Applications menu</b></cmd>
+                <cmd>Click the <b>Applications menu</b>.</cmd>
                 <substeps id="substeps_z5q_dpk_hzb">
                     <substep>
-                        <cmd>Select <b>Client Portal </b>if necessary</cmd>
+                        <cmd>Select <b>Client Portal </b>if necessary.</cmd>
                     </substep>
                 </substeps>
             </step>

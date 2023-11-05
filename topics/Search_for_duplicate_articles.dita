@@ -14,13 +14,11 @@
         <steps>
             <step>
                 <cmd>Sign in to TDX and select <b>Client Portal.</b></cmd>
-                <substeps>
-                    <substep>
-                        <cmd>If you are already signed into TDX, click the <b>Applications
-                            menu</b>and select <b>Client Portal.</b></cmd>
-                        <info><i>A new window (tab) will open.</i></info>
-                    </substep>
-                </substeps>
+            </step>
+            <step>
+                <cmd>Once signed into TDX, click the <b>Applications menu</b>and select <b>Client
+                        Portal.</b></cmd>
+                <info><i>A new window (tab) will open.</i></info>
             </step>
             <step>
                 <cmd>Click <b>Knowledge Base </b>in the menu bar.</cmd>
@@ -42,7 +40,7 @@
             </step>
             <step>
                 <cmd>Click the link to any article that could cover what your new article would
-                    cover</cmd>
+                    cover.</cmd>
             </step>
             <step>
                 <cmd>Review the article to verify it does not cover what your new article would

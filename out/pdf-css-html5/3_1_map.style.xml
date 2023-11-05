@@ -12,7 +12,7 @@
         <meta content="map" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.type"/>
         <meta content="HTML5" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.format"/>
         <meta content="en" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.language"/>
-        <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid" css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none" css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">3.1 map</title>
+        <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid" css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none" css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Technology Help (TC3.1)</title>
     </head>
     <body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%">
         <div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px">
@@ -20,12 +20,12 @@
                 <div class="wh_topic_content" css:display="block" css:margin-bottom="80px">
                     <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en">
                         <div class="- front-page/front-page front-page" css:display="block"><css:before css:display="block" css:height="0.1px"><css:text/></css:before><div class="- front-page/front-page-title front-page-title" css:display="block" css:font-size="2em" css:font-weight="bold" css:line-height="1.5em" css:margin-top="3in" css:text-align="center">
-                                <div class="- topic/title title" css:bookmark-level="1" css:display="block" css:page-break-after="avoid"><css:string-set name="maptitle"><css:content source="text"/></css:string-set><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><css:oxy-pdf-meta-title><css:content source="text"/></css:oxy-pdf-meta-title>3.1
-                                    map</div>
+                                <div class="- topic/title title" css:bookmark-level="1" css:display="block" css:page-break-after="avoid"><css:string-set name="maptitle"><css:content source="text"/></css:string-set><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><css:oxy-pdf-meta-title><css:content source="text"/></css:oxy-pdf-meta-title>Technology
+                                    Help (TC3.1)</div>
                             </div></div>
                         </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" page="table-of-contents"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/3_1_map.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><div class="- toc/toc toc" css:display="block">
                             <div class="- toc/title title" css:bookmark-level="1" css:display="block" css:font-size="2em" css:margin-bottom="1em" empty="true"><css:string-set name="toc-header"><css:text>Contents</css:text></css:string-set><css:before css:display="inline"><css:text>Contents</css:text></css:before><css:bookmark-label><css:content source="before"/></css:bookmark-label></div>
-                            <div class="- topic/title title" css:display="none" css:page-break-after="avoid">3.1 map</div>
+                            <div class="- topic/title title" css:display="none" css:page-break-after="avoid">Technology Help (TC3.1)</div>
                             <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_1" is-chapter="true" type="concept">
                                 <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="open_and_search_the_knowledge_base">
                                     <div appid="open_and_search_the_knowledge_base" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
@@ -41,7 +41,7 @@
                                         <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_2" css:text-align-last="justify" href="#unique_2"><css:before css:display="inline" css:link="#unique_2"/>Search
                                             the Knowledge
                                             Base<css:after css:display="inline" css:link="#unique_2"><css:leader pattern="."/><css:target-counter url-fragment="unique_2"/></css:after></div>
-                                        <div class="- map/shortdesc shortdesc" css:display="none">There are multiple search options to narrow searches in
+                                        <div class="- map/shortdesc shortdesc" css:display="none">There are multiple search options to narrow results in
                                             the Knowledge Base.</div>
                                     </div>
                                 </div>
@@ -110,11 +110,11 @@
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_6" type="concept">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="body_field_article_content">
                                         <div appid="body_field_article_content" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"/>Enter
-                                            Body Field Article
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"/>Body
+                                            Field Article
                                             Content<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
-                                        <div class="- map/shortdesc shortdesc" css:display="none">Follow this guidance when entering article content in
-                                            the Body field.</div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Body field article content should be structured
+                                            according to four points. </div>
                                     </div>
                                 </div>
                             </div>
@@ -133,8 +133,8 @@
                                         <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_11" css:text-align-last="justify" href="#unique_11"><css:before css:display="inline" css:link="#unique_11"/>TDX
                                             knowledge base
                                             display<css:after css:display="inline" css:link="#unique_11"><css:leader pattern="."/><css:target-counter url-fragment="unique_11"/></css:after></div>
-                                        <div class="- map/shortdesc shortdesc" css:display="none">Understand how TDX knowledge base articles are
-                                            displayed on the Technology Help (IT) website. </div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Knowledge base articles can be published into TDX or
+                                            Drupal. </div>
                                     </div>
                                 </div>
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_12" type="concept">
@@ -143,8 +143,8 @@
                                         <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_12" css:text-align-last="justify" href="#unique_12"><css:before css:display="inline" css:link="#unique_12"/>How
                                             Linking Works Between TDX and Drupal
                                             <css:after css:display="inline" css:link="#unique_12"><css:leader pattern="."/><css:target-counter url-fragment="unique_12"/></css:after></div>
-                                        <div class="- map/shortdesc shortdesc" css:display="none">Understand how TDX knowledge base articles are linked
-                                            on the Technology Help (IT) website. </div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Understand how knowledge base article linking works and
+                                            the recommended limits to updates.</div>
                                     </div>
                                 </div>
                             </div>
@@ -203,12 +203,10 @@
                                         <div class="- topic/created created" css:display="none" date="10/31/2023"/>
                                     </div>
                                 </div>
-                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">There are
-                                        multiple search options to narrow searches in the Knowledge
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0"><p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">There are
+                                        multiple search options to narrow results in the Knowledge
                                         Base.</p>
-                                    <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="d173e218"><figcaption class="- topic/title title figcap" css:display="block" css:font-style="normal" css:page-break-after="avoid" data-caption-side="top"><span class="figtitleprefix fig--title-label" css:display="inline">Figure<span class="fig--title-label-number" css:display="inline"> 1</span><span class="fig--title-label-punctuation" css:display="inline">. </span></span><span class="fig--title" css:display="inline"><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">The search options
-                                                  screen</span></span></figcaption><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" dita-ot:image-height="372" dita-ot:image-width="721" href="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20start.png" id="unique_2_Connect_42_image_whr_qvk_hzb" nd:nd-id="image_whr_qvk_hzb" placement="inline" src="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20start.png"><css:content-on-element><css:uri extracted-image-height="372" extracted-image-width="721" uri="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20start.png"/></css:content-on-element></img></figure>
+                                    <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="The search options screen." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="The search options screen." dita-ot:image-height="372" dita-ot:image-width="721" href="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20start.png" id="unique_2_Connect_42_image_whr_qvk_hzb" nd:nd-id="image_whr_qvk_hzb" placement="inline" src="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20start.png"><css:content-on-element><css:uri extracted-image-height="372" extracted-image-width="721" uri="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20start.png"/></css:content-on-element></img>
                                     <div class="- topic/p p" css:display="block" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Search:
                                         </strong>Enter search terms here.<ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_2_Connect_42_ul_w1t_ytk_hzb" nd:nd-id="ul_w1t_ytk_hzb">
                                             <li class="- topic/li li" css:display="list-item">
@@ -216,22 +214,19 @@
                                                   by status.<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_2_Connect_42_ul_nrd_b5k_hzb" nd:nd-id="ul_nrd_b5k_hzb">
                                                   <li class="- topic/li li" css:display="list-item">
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Default
-                                                  is set to <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Approved</strong></p>
+                                                  is set to <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Approved</strong>.</p>
                                                   </li>
                                                   <li class="- topic/li li" css:display="list-item"><p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">You can
                                                   use the checkboxes to search by one or more
-                                                  statuses.</p><figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="d173e250">
-                                                  <figcaption class="- topic/title title figcap" css:display="block" css:font-style="normal" css:page-break-after="avoid" data-caption-side="top"><span class="figtitleprefix fig--title-label" css:display="inline">Figure<span class="fig--title-label-number" css:display="inline"> 2</span><span class="fig--title-label-punctuation" css:display="inline">. </span></span><span class="fig--title" css:display="inline"><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">View of the status
-                                                  checkboxes</span></span></figcaption>
-                                                  </figure>
-                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" dita-ot:image-height="159" dita-ot:image-width="360" href="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20by%20status.png" id="unique_2_Connect_42_image_rvc_d5k_hzb" nd:nd-id="image_rvc_d5k_hzb" placement="inline" src="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20by%20status.png"><css:content-on-element><css:uri extracted-image-height="159" extracted-image-width="360" uri="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20by%20status.png"/></css:content-on-element></img>
+                                                  statuses.</p>
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="A view of the status checkbox dropdown" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="A view of the status checkbox dropdown" dita-ot:image-height="159" dita-ot:image-width="360" href="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20by%20status.png" id="unique_2_Connect_42_image_rvc_d5k_hzb" nd:nd-id="image_rvc_d5k_hzb" placement="inline" src="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20by%20status.png"><css:content-on-element><css:uri extracted-image-height="159" extracted-image-width="360" uri="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/search%20by%20status.png"/></css:content-on-element></img>
                                                   </li>
                                                   </ul></div>
                                             </li>
                                             <li class="- topic/li li" css:display="list-item">
                                                 <div class="- topic/p p" css:display="block" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Category: </strong>Start typing or use the
                                                   <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Lookup
-                                                  Category </strong>option<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_2_Connect_42_ul_u4h_f5k_hzb" nd:nd-id="ul_u4h_f5k_hzb">
+                                                  Category </strong>option.<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_2_Connect_42_ul_u4h_f5k_hzb" nd:nd-id="ul_u4h_f5k_hzb">
                                                   <li class="- topic/li li" css:display="list-item">
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Always
                                                   <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Search
@@ -240,12 +235,11 @@
                                                   </li>
                                                   <li class="- topic/li li" css:display="list-item">
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Public
-                                                  does not mean published to the IT website
-                                                  (it.umn.edu).</p>
+                                                  does not mean published to the IT website (<a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="http://it.umn.edu" format="html" href="http://it.umn.edu" rel="external noopener" scope="external" target="_blank">it.umn.edu<css:after css:display="inline" css:font-style="italic" css:link="http://it.umn.edu" css:oxy-alt-text=" "/></a>).</p>
                                                   </li>
                                                   <li class="- topic/li li" css:display="list-item">
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Include
-                                                  the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Include Subcategories</strong>checkbox if you
+                                                  the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Include Subcategories</strong> checkbox if you
                                                   want to include articles intended for a specific
                                                   audience in your search results. </p>
                                                   </li>
@@ -280,8 +274,8 @@
                                             </li>
                                             <li class="- topic/li li" css:display="list-item">
                                                 <div class="- topic/p p" css:display="block" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Published, Unpublished, </strong>or<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">
-                                                  Both:</strong>Choose from the radio button
-                                                  options<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_2_Connect_42_ul_zlm_v5k_hzb" nd:nd-id="ul_zlm_v5k_hzb">
+                                                  Both:</strong> Choose from the radio button
+                                                  options.<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_2_Connect_42_ul_zlm_v5k_hzb" nd:nd-id="ul_zlm_v5k_hzb">
                                                   <li class="- topic/li li" css:display="list-item">
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Default
                                                   is <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Both.</strong></p>
@@ -289,8 +283,7 @@
                                                   <li class="- topic/li li" css:display="list-item">
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Select
                                                   <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Published</strong> to limit your search to
-                                                  articles published to the IT website
-                                                  (it.umn.edu).</p>
+                                                  articles published to the IT website.</p>
                                                   </li>
                                                   </ul></div>
                                             </li>
@@ -310,11 +303,8 @@
                                                   </ul></div>
                                             </li>
                                             <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Created Date: </strong>Enter <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">From,
-                                                  To,</strong>or both dates.<figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="d173e412">
-                                                  <figcaption class="- topic/title title figcap" css:display="block" css:font-style="normal" css:page-break-after="avoid" data-caption-side="top"><span class="figtitleprefix fig--title-label" css:display="inline">Figure<span class="fig--title-label-number" css:display="inline"> 3</span><span class="fig--title-label-punctuation" css:display="inline">. </span></span><span class="fig--title" css:display="inline"><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">A sample of filled out search
-                                                  options</span></span></figcaption>
-                                                </figure>
-                                                <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" dita-ot:image-height="336" dita-ot:image-width="600" href="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/sample%20search%20complete.png" id="unique_2_Connect_42_image_jcb_vvk_hzb" nd:nd-id="image_jcb_vvk_hzb" placement="inline" src="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/sample%20search%20complete.png"><css:content-on-element><css:uri extracted-image-height="336" extracted-image-width="600" uri="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/sample%20search%20complete.png"/></css:content-on-element></img></li>
+                                                  To,</strong>or both dates. <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="A sample of filled out search options." class="- topic/image image break" css:display="block" css:image-resolution="96dpi" css:margin-bottom="1em" css:max-width="100%" css:oxy-alt-text="A sample of filled out search options." dita-ot:image-height="336" dita-ot:image-width="600" href="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/sample%20search%20complete.png" id="unique_2_Connect_42_image_jcb_vvk_hzb" nd:nd-id="image_jcb_vvk_hzb" placement="break" src="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/sample%20search%20complete.png"><css:content-on-element><css:uri extracted-image-height="336" extracted-image-width="600" uri="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/sample%20search%20complete.png"/></css:content-on-element></img>
+                                            </li>
                                         </ul></div>
                                 </div>
                             </article>
@@ -332,11 +322,11 @@
                                     <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
                                         <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
                                             <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Applications menu</strong></span>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Applications menu</strong>.</span>
                                                 <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_3_Connect_42_substeps_z5q_dpk_hzb" nd:nd-id="substeps_z5q_dpk_hzb" type="a">
                                                   <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
                                                   <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Client
-                                                  Portal </strong>if necessary</span>
+                                                  Portal </strong>if necessary.</span>
                                                   </li>
                                                 </ol>
                                             </li>
@@ -404,9 +394,9 @@
                                             <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter article content in the
                                                   <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Body
                                                 </strong>field.</span>
-                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Visit <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="#unique_6" css:oxy-alt-text="Follow this guidance when entering article content in the Body field." href="#unique_6" title="Follow this guidance when entering article content in the Body field." type="concept">Enter Body Field Article Content
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Visit <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="#unique_6" css:oxy-alt-text="Body field article content should be structured according to four points." href="#unique_6" title="Body field article content should be structured according to four points." type="concept">Enter Body Field Article Content
                                                   <css:after css:display="inline" css:font-style="italic" css:link="#unique_6" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_6"/><css:text>)</css:text></css:after></a>for
-                                                guidance</div>
+                                                guidance.</div>
                                             <div class="- topic/itemgroup task/info itemgroup info" css:display="block">DO NOT include the title for the
                                                 article in the Body field. </div>
                                             <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Do include a summary to provide
@@ -420,7 +410,7 @@
                                         <li class="- topic/li task/step li step" css:display="list-item">
                                             <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter an <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Article Summary.</strong></span>
                                             <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Use under 100 characters if
-                                                possible</div>
+                                                possible.</div>
                                             <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Visit <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="#unique_8" css:oxy-alt-text="Follow this reference to determine what to write in the article summary based on its article type." href="#unique_8" title="Follow this reference to determine what to write in the article summary based on its article type." type="reference">List of Article
                                                   Types<css:after css:display="inline" css:font-style="italic" css:link="#unique_8" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_8"/><css:text>)</css:text></css:after></a>
                                                 for reference.</div>
@@ -464,7 +454,7 @@
                                                   Submitted.</strong></span>
                                                 </li>
                                                 <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
-                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Change <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Owner</strong> to the appropriate <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Group</strong></span>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Change <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Owner</strong> to the appropriate <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Group</strong>.</span>
                                                 </li>
                                             </ol>
                                         </li>
@@ -476,8 +466,8 @@
                                             <span class="- topic/ph task/cmd ph cmd" css:display="inline">(optional) Enter <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Knowledge Internal Notes. </strong></span>
                                             <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Use this field to enter any
                                                 information a technician might need to support a
-                                                customer when the article is published to
-                                                it.umn.edu.</div>
+                                                customer when the article is published to<a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="http://it.umn.edu" format="html" href="http://it.umn.edu" rel="external noopener" scope="external" target="_blank">
+                                                  it.umn.edu.<css:after css:display="inline" css:font-style="italic" css:link="http://it.umn.edu" css:oxy-alt-text=" "/></a></div>
                                         </li>
                                         <li class="- topic/li task/step li step" css:display="list-item">
                                             <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the appropriate response
@@ -486,7 +476,7 @@
                                         </li>
                                         <li class="- topic/li task/step li step" css:display="list-item">
                                             <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save.</strong></span>
-                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:height="307px" css:image-resolution="96dpi" css:max-width="100%" css:width="390px" dita-ot:image-height="614" dita-ot:image-width="781" height="307" href="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/Click%20Save.%20The%20Edit%20Form%20screen%20closes%20and%20the%20article%20presents%20in%20View%20Mode..png" id="unique_4_Connect_42_image_p4w_n5y_hzb" nd:nd-id="image_p4w_n5y_hzb" placement="inline" scale="50" src="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/Click%20Save.%20The%20Edit%20Form%20screen%20closes%20and%20the%20article%20presents%20in%20View%20Mode..png" width="390"><css:content-on-element><css:uri extracted-image-height="614" extracted-image-width="781" uri="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/Click%20Save.%20The%20Edit%20Form%20screen%20closes%20and%20the%20article%20presents%20in%20View%20Mode..png"/></css:content-on-element></img><img alt="A screenshot of the View Mode." class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="A screenshot of the View Mode." placement="inline"/></div>
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="A screenshot of the View Mode." chfox:inch="true" class="- topic/image image" css:display="inline" css:height="307px" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="A screenshot of the View Mode." css:width="390px" dita-ot:image-height="614" dita-ot:image-width="781" height="307" href="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/Click%20Save.%20The%20Edit%20Form%20screen%20closes%20and%20the%20article%20presents%20in%20View%20Mode..png" id="unique_4_Connect_42_image_p4w_n5y_hzb" nd:nd-id="image_p4w_n5y_hzb" placement="inline" scale="50" src="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/Click%20Save.%20The%20Edit%20Form%20screen%20closes%20and%20the%20article%20presents%20in%20View%20Mode..png" width="390"><css:content-on-element><css:uri extracted-image-height="614" extracted-image-width="781" uri="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/TC3.1/images/Click%20Save.%20The%20Edit%20Form%20screen%20closes%20and%20the%20article%20presents%20in%20View%20Mode..png"/></css:content-on-element></img></div>
                                         </li>
                                         <li class="- topic/li task/step li step" css:display="list-item">
                                             <span class="- topic/ph task/cmd ph cmd" css:display="inline"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">If
@@ -533,15 +523,13 @@
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">Sign in to TDX and select
                                                   <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Client
                                                   Portal.</strong></span>
-                                                <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" type="a">
-                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
-                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">If you are already signed
-                                                  into TDX, click the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Applications menu</strong>and select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Client
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Once signed into TDX, click
+                                                  the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Applications menu</strong>and select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Client
                                                   Portal.</strong></span>
-                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">A new
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">A new
                                                   window (tab) will open.</em></div>
-                                                  </li>
-                                                </ol>
                                             </li>
                                             <li class="- topic/li task/step li step" css:display="list-item">
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Knowledge Base </strong>in the menu bar.</span>
@@ -572,7 +560,7 @@
                                             <li class="- topic/li task/step li step" css:display="list-item">
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the link to any article
                                                   that could cover what your new article would
-                                                  cover</span>
+                                                  cover.</span>
                                             </li>
                                             <li class="- topic/li task/step li step" css:display="list-item">
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">Review the article to verify
@@ -671,8 +659,10 @@
                                     <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_section_qb1_dyr_hzb" nd:nd-id="section_qb1_dyr_hzb">
                                         <h3 class="- topic/title title sectiontitle" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="700" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Additional
                                             public standards</h3>
-                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Order content
-                                            well. </p>
+                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_7_Connect_42_ul_ndr_yrs_3zb" nd:nd-id="ul_ndr_yrs_3zb">
+                                            <li class="- topic/li li" css:display="list-item">Order
+                                                content well.</li>
+                                        </ul>
                                         <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_7_Connect_42_ul_lf5_dyr_hzb" nd:nd-id="ul_lf5_dyr_hzb">
                                             <li class="- topic/li li" css:display="list-item">
                                                 <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Give
@@ -743,17 +733,16 @@
                                 </div>
                             </article>
                             <article aria-labelledby="ariaid-title9" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_6" nd:nd-id="body_field_article_content" oid="body_field_article_content" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Enter Body Field Article
-                                    Content</span></h2>
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Body Field Article Content</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/critdates critdates" css:display="none">
                                         <div class="- topic/created created" css:display="none" date="11/3/2023"/>
                                     </div>
                                 </div>
                                 <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Follow this
-                                        guidance when entering article content in the Body
-                                        field.</p>
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Body field
+                                        article content should be structured according to four
+                                        points. </p>
                                     <div class="- topic/p p" css:display="block" css:margin-top="1em">
                                         <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_6_Connect_42_ul_zdt_1wr_hzb" nd:nd-id="ul_zdt_1wr_hzb">
                                             <li class="- topic/li li" css:display="list-item">
@@ -796,9 +785,8 @@
                                     </div>
                                 </div>
                                 <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Understand how
-                                        TDX knowledge base articles are displayed on the Technology
-                                        Help (IT) website. </p>
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Knowledge base
+                                        articles can be published into TDX or Drupal. </p>
                                     <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_11_Connect_42_ul_srw_zd1_gzb" nd:nd-id="ul_srw_zd1_gzb">
                                         <li class="- topic/li li" css:display="list-item">Internal
                                             articles can only be viewed in TDX.<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_11_Connect_42_ul_dkk_121_gzb" nd:nd-id="ul_dkk_121_gzb">
@@ -823,7 +811,7 @@
                                             a Drupal-generated URL based on the article's title. <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_11_Connect_42_ul_hkk_121_gzb" nd:nd-id="ul_hkk_121_gzb">
                                                 <li class="- topic/li li" css:display="list-item">Once pulled, you can find it using the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Self
                                                   Help Search</strong> for on the Technology Help
-                                                  website, it.umn.edu.<ul class="- topic/ul ul" css:display="block" css:list-style-type="square" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_11_Connect_42_ul_ikk_121_gzb" nd:nd-id="ul_ikk_121_gzb">
+                                                  website, <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="http://it.umn.edu" format="html" href="http://it.umn.edu" rel="external noopener" scope="external" target="_blank">it.umn.edu.<css:after css:display="inline" css:font-style="italic" css:link="http://it.umn.edu" css:oxy-alt-text=" "/></a><ul class="- topic/ul ul" css:display="block" css:list-style-type="square" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_11_Connect_42_ul_ikk_121_gzb" nd:nd-id="ul_ikk_121_gzb">
                                                   <li class="- topic/li li" css:display="list-item">In general, new knowledge will be available no
                                                   later than 6:00 AM the next morning.</li>
                                                   <li class="- topic/li li" css:display="list-item">If there is an emergency need for information to
@@ -845,8 +833,8 @@
                                 </div>
                                 <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                     <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Understand how
-                                        TDX knowledge base articles are linked on the Technology
-                                        Help (IT) website. </p>
+                                        knowledge base article linking works and the recommended
+                                        limits to updates.</p>
                                     <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_12_Connect_42_ul_rbt_33x_2zb" nd:nd-id="ul_rbt_33x_2zb">
                                         <li class="- topic/li li" css:display="list-item">Links from
                                             one article to another must use the TDX link whether an
@@ -924,15 +912,16 @@
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">If you
                                                   are working on a large Knowledge maintenance
                                                   project and are updating/publishing 50+
-                                                  public-facing KB articles in one day, it is
-                                                  recommended to limit those updates to 40
+                                                  public-facing Knowledge Base articles in one day,
+                                                  it is recommended to limit those updates to 40
                                                   public-facing articles per day. This leaves 10
                                                   extra slots in the knowledge pull for any general
                                                   operational KB article updates. </p>
                                                 </li>
                                             </ul><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Note</strong>: If you don't see a TDX ID number at
                                             the bottom of an Technology Help web page, the page was
-                                            created in Drupal, not TDX. <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">All KB articles are <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">How-To</strong> articles on the Technology Help
+                                            created in Drupal, not TDX. <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">All Knowledge Base articles are
+                                                  <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">How-To</strong> articles on the Technology Help
                                                 website (<a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="http://it.umn.edu" format="html" href="http://it.umn.edu" rel="external noopener" scope="external" target="_blank">it.umn.edu<css:after css:display="inline" css:font-style="italic" css:link="http://it.umn.edu" css:oxy-alt-text=" "/></a>).
                                             </p></li>
                                     </ul>

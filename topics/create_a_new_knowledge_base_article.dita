@@ -45,7 +45,7 @@
             <step>
                 <cmd>Enter article content in the <b>Body </b>field.</cmd>
                 <info>Visit <xref href="body_field_article_content.dita">Enter Body Field Article
-                        Content </xref>for guidance</info>
+                        Content </xref>for guidance.</info>
                 <info>DO NOT include the title for the article in the Body field. </info>
                 <info>Do include a summary to provide context for what follows. This can be a single
                     sentence.</info>
@@ -55,7 +55,7 @@
             </step>
             <step>
                 <cmd>Enter an <b>Article Summary.</b></cmd>
-                <info>Use under 100 characters if possible</info>
+                <info>Use under 100 characters if possible.</info>
                 <info>Visit <xref href="List_of_article_types.dita">List of Article Types</xref> for
                     reference.</info>
             </step>
@@ -86,7 +86,7 @@
                         <cmd>Set <b>Status </b>to <b>Not Submitted.</b></cmd>
                     </substep>
                     <substep>
-                        <cmd>Change <b>Owner</b> to the appropriate <b>Group</b></cmd>
+                        <cmd>Change <b>Owner</b> to the appropriate <b>Group</b>.</cmd>
                     </substep>
                 </substeps>
             </step>
@@ -96,7 +96,8 @@
             <step>
                 <cmd>(optional) Enter <b>Knowledge Internal Notes. </b></cmd>
                 <info>Use this field to enter any information a technician might need to support a
-                    customer when the article is published to it.umn.edu.</info>
+                    customer when the article is published to<xref href="http://it.umn.edu"
+                        format="html" scope="external"> it.umn.edu.</xref></info>
             </step>
             <step>
                 <cmd>Select the appropriate response to the prompt "Should the viewing of this

@@ -26,7 +26,8 @@
             <li>Once a new public article has been pulled into Drupal, it will have a
                 Drupal-generated URL based on the article's title. <ul id="ul_hkk_121_gzb">
                     <li>Once pulled, you can find it using the <b>Self Help Search</b> for on the
-                        Technology Help website, it.umn.edu.<ul id="ul_ikk_121_gzb">
+                        Technology Help website, <xref href="http://it.umn.edu" format="html"
+                            scope="external">it.umn.edu.</xref><ul id="ul_ikk_121_gzb">
                             <li>In general, new knowledge will be available no later than 6:00 AM
                                 the next morning.</li>
                             <li>If there is an emergency need for information to be available

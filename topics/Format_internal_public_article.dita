@@ -37,7 +37,9 @@
         </section>
         <section id="section_qb1_dyr_hzb">
             <title>Additional public standards</title>
-            <p>Order content well. </p>
+            <ul id="ul_ndr_yrs_3zb">
+                <li>Order content well.</li>
+            </ul>
             <ul id="ul_lf5_dyr_hzb">
                 <li>
                     <p>Give topics and subtopics a logical sequence.</p>

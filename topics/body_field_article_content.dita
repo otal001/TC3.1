@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="body_field_article_content">
-    <title>Enter Body Field Article Content</title>
-    <shortdesc>Follow this guidance when entering article content in the Body field.</shortdesc>
+    <title>Body Field Article Content</title>
+    <shortdesc>Body field article content should be structured according to four points. </shortdesc>
     <prolog>
         <critdates>
             <created date="11/3/2023"/>

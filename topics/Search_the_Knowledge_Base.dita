@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="search_options">
     <title>Search the Knowledge Base</title>
-    <shortdesc>There are multiple search options to narrow searches in the Knowledge
+    <shortdesc>There are multiple search options to narrow results in the Knowledge
         Base.</shortdesc>
     <prolog>
         <critdates>
@@ -18,7 +18,7 @@
                     <p><b>Status: </b>Use the dropdown menu to search by status.<ul
                             id="ul_nrd_b5k_hzb">
                             <li>
-                                <p>Default is set to <b>Approved</b></p>
+                                <p>Default is set to <b>Approved</b>.</p>
                             </li>
                             <li><p>You can use the checkboxes to search by one or more statuses.</p>
                                 <image href="../images/search%20by%20status.png"
@@ -29,17 +29,18 @@
                         </ul></p>
                 </li>
                 <li>
-                    <p><b>Category: </b>Start typing or use the <b>Lookup Category </b>option<ul
+                    <p><b>Category: </b>Start typing or use the <b>Lookup Category </b>option.<ul
                             id="ul_u4h_f5k_hzb">
                             <li>
                                 <p>Always <b>Search </b>by <b>Both. </b></p>
                             </li>
                             <li>
-                                <p>Public does not mean published to the IT website
-                                    (it.umn.edu).</p>
+                                <p>Public does not mean published to the IT website (<xref
+                                        href="http://it.umn.edu" format="html" scope="external"
+                                        >it.umn.edu</xref>).</p>
                             </li>
                             <li>
-                                <p>Include the <b>Include Subcategories</b>checkbox if you want to
+                                <p>Include the <b>Include Subcategories</b> checkbox if you want to
                                     include articles intended for a specific audience in your search
                                     results. </p>
                             </li>
@@ -66,14 +67,14 @@
                     <p><b>Review Date: </b>Enter <b>From </b>, <b>To</b>, or both dates.</p>
                 </li>
                 <li>
-                    <p><b>Published, Unpublished, </b>or<b> Both:</b>Choose from the radio button
-                            options<ul id="ul_zlm_v5k_hzb">
+                    <p><b>Published, Unpublished, </b>or<b> Both:</b> Choose from the radio button
+                            options.<ul id="ul_zlm_v5k_hzb">
                             <li>
                                 <p>Default is <b>Both.</b></p>
                             </li>
                             <li>
                                 <p>Select <b>Published</b> to limit your search to articles
-                                    published to the IT website (it.umn.edu).</p>
+                                    published to the IT website.</p>
                             </li>
                         </ul></p>
                 </li>
